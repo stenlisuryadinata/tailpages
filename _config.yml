@@ -20,6 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
+- text: My Skills
+  permalink: skills
 - text: Bitcoin
   permalink: bitcoin
 - text: Blog
