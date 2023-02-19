@@ -1,6 +1,6 @@
 # About
 
-Tailpages (Tailwind + Github Pages) is a Jekyll website template based on TailwindCSS, which can be hosted by Github for free. You can visit the demo site at [https://harrywang.me/](https://harrywang.me/).
+Tailpages (Tailwind + Github Pages) is a Jekyll website template based on TailwindCSS, which can be hosted by Github for free. You can visit the demo site at [https://harrywang.me/]([[https://stenlisuryadinata.github.io/tailpages)](https://stenlisuryadinata.github.io/tailpages/)).
 
 Key features are:
 
